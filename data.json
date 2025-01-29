@@ -7,12 +7,12 @@
     "cidade": "Belém",
     "estadio": "Mangueirão",
     "time_casa": {
-      "escudo": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg",
+      "escudo": "https://www.clubedoremo.com.br/images/escudo-simbolo.png",
       "nome": "Remo",
       "gols": 5
     },
     "time_visitante": {
-      "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/escudo_default_65x65.png",
+      "escudo": "https://us.123rf.com/450wm/woters/woters1604/woters160400040/54554660-futebol-r%C3%B3tulo-ou-modelo-de-emblema-com-bola-no-escudo.jpg?ver=6",
       "nome": "São Francisco",
       "gols": 0
     }
@@ -25,12 +25,12 @@
     "cidade": "Augusto Corrêa",
     "estadio": "Estrelão",
     "time_casa": {
-      "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/escudo_default_65x65.png",
+      "escudo": "https://us.123rf.com/450wm/woters/woters1604/woters160400040/54554660-futebol-r%C3%B3tulo-ou-modelo-de-emblema-com-bola-no-escudo.jpg?ver=6",
       "nome": "Caeté",
       "gols": 0
     },
     "time_visitante": {
-      "escudo": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg",
+      "escudo": "https://www.clubedoremo.com.br/images/escudo-simbolo.png",
       "nome": "Remo",
       "gols": 4
     }
@@ -43,12 +43,12 @@
     "cidade": "Marabá",
     "estadio": "Zinho de Oliveira",
     "time_casa": {
-      "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/escudo_default_65x65.png",
+      "escudo": "https://us.123rf.com/450wm/woters/woters1604/woters160400040/54554660-futebol-r%C3%B3tulo-ou-modelo-de-emblema-com-bola-no-escudo.jpg?ver=6",
       "nome": "Águia",
       "gols": 0
     },
     "time_visitante": {
-      "escudo": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg",
+      "escudo": "https://www.clubedoremo.com.br/images/escudo-simbolo.png",
       "nome": "Remo",
       "gols": 0
     }
