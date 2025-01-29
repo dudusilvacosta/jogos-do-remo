@@ -2,17 +2,17 @@
   {
     "id": 1,
     "competicao": "Campeonato Paraense",
-    "data": "18 de Janeiro de 2025",
+    "data": "18 de Janeiro",
     "hora": "18:00",
     "cidade": "Belém",
     "estadio": "Mangueirão",
     "time_casa": {
-      "escudo": "https://www.clubedoremo.com.br/images/escudo-simbolo.png",
+      "escudo": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg",
       "nome": "Remo",
       "gols": 5
     },
     "time_visitante": {
-      "escudo": "https://us.123rf.com/450wm/woters/woters1604/woters160400040/54554660-futebol-r%C3%B3tulo-ou-modelo-de-emblema-com-bola-no-escudo.jpg?ver=6",
+      "escudo": "https://s.sde.globo.com/media/organizations/2025/01/17/S%C3%A3o_Francisco-PA.svg",
       "nome": "São Francisco",
       "gols": 0
     }
@@ -20,17 +20,17 @@
   {
     "id": 2,
     "competicao": "Campeonato Paraense",
-    "data": "26 de Janeiro de 2025",
+    "data": "26 de Janeiro",
     "hora": "15:30",
     "cidade": "Augusto Corrêa",
     "estadio": "Estrelão",
     "time_casa": {
-      "escudo": "https://us.123rf.com/450wm/woters/woters1604/woters160400040/54554660-futebol-r%C3%B3tulo-ou-modelo-de-emblema-com-bola-no-escudo.jpg?ver=6",
+      "escudo": "https://s.sde.globo.com/media/organizations/2024/01/23/caete-svg.svg",
       "nome": "Caeté",
       "gols": 0
     },
     "time_visitante": {
-      "escudo": "https://www.clubedoremo.com.br/images/escudo-simbolo.png",
+      "escudo": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg",
       "nome": "Remo",
       "gols": 4
     }
@@ -38,17 +38,17 @@
   {
     "id": 3,
     "competicao": "Campeonato Paraense",
-    "data": "29 de Janeiro de 2025",
+    "data": "29 de Janeiro",
     "hora": "18:00",
     "cidade": "Marabá",
     "estadio": "Zinho de Oliveira",
     "time_casa": {
-      "escudo": "https://us.123rf.com/450wm/woters/woters1604/woters160400040/54554660-futebol-r%C3%B3tulo-ou-modelo-de-emblema-com-bola-no-escudo.jpg?ver=6",
+      "escudo": "https://s.sde.globo.com/media/organizations/2023/05/12/%C3%81GUIA_MARAB%C3%81.svg",
       "nome": "Águia",
       "gols": 0
     },
     "time_visitante": {
-      "escudo": "https://www.clubedoremo.com.br/images/escudo-simbolo.png",
+      "escudo": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg",
       "nome": "Remo",
       "gols": 0
     }
