@@ -13,7 +13,7 @@
     },
     "time_visitante": {
       "escudo": "https://us.123rf.com/450wm/woters/woters1604/woters160400040/54554660-futebol-r%C3%B3tulo-ou-modelo-de-emblema-com-bola-no-escudo.jpg?ver=6",
-      "nome": "S. Francisco",
+      "nome": "São Francisco",
       "gols": 0
     }
   },
@@ -54,7 +54,7 @@
     }
   },
   {
-    "id": 1,
+    "id": 4,
     "competicao": "Copa Verde",
     "data": "18 de Janeiro",
     "hora": "20:00",
@@ -67,7 +67,7 @@
     },
     "time_visitante": {
       "escudo": "https://us.123rf.com/450wm/woters/woters1604/woters160400040/54554660-futebol-r%C3%B3tulo-ou-modelo-de-emblema-com-bola-no-escudo.jpg?ver=6",
-      "nome": "S. Raimundo-RR",
+      "nome": "São Raimundo-RR",
       "gols": 0
     }
   }
