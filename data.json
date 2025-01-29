@@ -13,7 +13,7 @@
     },
     "time_visitante": {
       "escudo": "https://us.123rf.com/450wm/woters/woters1604/woters160400040/54554660-futebol-r%C3%B3tulo-ou-modelo-de-emblema-com-bola-no-escudo.jpg?ver=6",
-      "nome": "São F.",
+      "nome": "S. Francisco",
       "gols": 0
     }
   },
@@ -50,6 +50,24 @@
     "time_visitante": {
       "escudo": "https://www.clubedoremo.com.br/images/escudo-simbolo.png",
       "nome": "Remo",
+      "gols": 0
+    }
+  },
+  {
+    "id": 1,
+    "competicao": "Copa Verde",
+    "data": "18 de Janeiro",
+    "hora": "20:00",
+    "cidade": "Belém",
+    "estadio": "Mangueirão",
+    "time_casa": {
+      "escudo": "https://www.clubedoremo.com.br/images/escudo-simbolo.png",
+      "nome": "Remo",
+      "gols": 0
+    },
+    "time_visitante": {
+      "escudo": "https://us.123rf.com/450wm/woters/woters1604/woters160400040/54554660-futebol-r%C3%B3tulo-ou-modelo-de-emblema-com-bola-no-escudo.jpg?ver=6",
+      "nome": "S. Raimundo-RR",
       "gols": 0
     }
   }
