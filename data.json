@@ -1,47 +1,56 @@
 [
   {
     "id": 1,
-    "competicao": "Campeonato Brasileiro",
-    "data_hora": "2025-02-15T16:00:00Z",
-    "cidade": "São Paulo",
-    "estadio": "Morumbi",
+    "competicao": "Campeonato Paraense",
+    "data": "18 de Janeiro de 2025",
+    "hora": "18:00",
+    "cidade": "Belém",
+    "estadio": "Mangueirão",
     "time_casa": {
-      "nome": "São Paulo",
-      "gols": 2
+      "escudo": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg",
+      "nome": "Remo",
+      "gols": 5
     },
     "time_visitante": {
-      "nome": "Flamengo",
-      "gols": 1
+      "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/escudo_default_65x65.png",
+      "nome": "São Francisco",
+      "gols": 0
     }
   },
   {
     "id": 2,
-    "competicao": "Champions League",
-    "data_hora": "2025-02-20T20:00:00Z",
-    "cidade": "Madrid",
-    "estadio": "Santiago Bernabéu",
+    "competicao": "Campeonato Paraense",
+    "data": "26 de Janeiro de 2025",
+    "hora": "15:30",
+    "cidade": "Augusto Corrêa",
+    "estadio": "Estrelão",
     "time_casa": {
-      "nome": "Real Madrid",
-      "gols": 3
+      "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/escudo_default_65x65.png",
+      "nome": "Caeté",
+      "gols": 0
     },
     "time_visitante": {
-      "nome": "Manchester City",
-      "gols": 2
+      "escudo": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg",
+      "nome": "Remo",
+      "gols": 4
     }
   },
   {
     "id": 3,
-    "competicao": "Premier League",
-    "data_hora": "2025-02-25T14:30:00Z",
-    "cidade": "Londres",
-    "estadio": "Emirates Stadium",
+    "competicao": "Campeonato Paraense",
+    "data": "29 de Janeiro de 2025",
+    "hora": "18:00",
+    "cidade": "Marabá",
+    "estadio": "Zinho de Oliveira",
     "time_casa": {
-      "nome": "Arsenal",
-      "gols": 1
+      "escudo": "https://s.glbimg.com/es/sde/f/organizacoes/escudo_default_65x65.png",
+      "nome": "Águia",
+      "gols": 0
     },
     "time_visitante": {
-      "nome": "Chelsea",
-      "gols": 1
+      "escudo": "https://s.sde.globo.com/media/organizations/2021/02/25/Remo-PA.svg",
+      "nome": "Remo",
+      "gols": 0
     }
   }
 ]
