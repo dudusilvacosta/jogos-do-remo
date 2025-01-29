@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "competicao": "Campeonato Brasileiro",
+    "data_hora": "2025-02-15T16:00:00Z",
+    "cidade": "São Paulo",
+    "estadio": "Morumbi",
+    "time_casa": {
+      "nome": "São Paulo",
+      "gols": 2
+    },
+    "time_visitante": {
+      "nome": "Flamengo",
+      "gols": 1
+    }
+  },
+  {
+    "id": 2,
+    "competicao": "Champions League",
+    "data_hora": "2025-02-20T20:00:00Z",
+    "cidade": "Madrid",
+    "estadio": "Santiago Bernabéu",
+    "time_casa": {
+      "nome": "Real Madrid",
+      "gols": 3
+    },
+    "time_visitante": {
+      "nome": "Manchester City",
+      "gols": 2
+    }
+  },
+  {
+    "id": 3,
+    "competicao": "Premier League",
+    "data_hora": "2025-02-25T14:30:00Z",
+    "cidade": "Londres",
+    "estadio": "Emirates Stadium",
+    "time_casa": {
+      "nome": "Arsenal",
+      "gols": 1
+    },
+    "time_visitante": {
+      "nome": "Chelsea",
+      "gols": 1
+    }
+  }
+]
